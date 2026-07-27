@@ -15,7 +15,6 @@ An end-to-end healthcare analytics project using R, machine learning, and Power 
 ## Tools and Technologies
 
 - R
-- RStudio
 - Machine Learning
 - Power BI
 - Git
