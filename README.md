@@ -75,38 +75,39 @@ Model Evaluation
 
 ## 📊 Project Visualizations
 
-## 📊 Heart Disease Distribution
+### Heart Disease Distribution
 
-![Heart Disease Distribution](Images/Heart Disease Distribution.png)
+![Heart Disease Distribution](Images/heart_disease_distribution.png)
 
-## 👨 Heart Disease by Gender
+### Heart Disease by Gender
 
-![Heart Disease by Gender](Images/Heart Disease by Gender.png)
+![Heart Disease by Gender](Images/heart_disease_by_gender.png)
 
-## 📈 Age vs Heart Disease
+### Age vs Heart Disease
 
-![Age vs Heart Disease](Images/Age vs Heart Disease.png)
+![Age vs Heart Disease](Images/age_vs_heart_disease.png)
 
-## ❤️ Chest Pain Type vs Heart Disease
+### Chest Pain Type vs Heart Disease
 
-![Chest Pain Type](Images/Chest Pain Type vs Heart Disease.png)
+![Chest Pain Type](Images/chest_pain_vs_heart_disease.png)
 
-## 🩸 Cholesterol vs Heart Disease
+### Cholesterol vs Heart Disease
 
-![Cholesterol](Images/Cholesterol vs Heart Disease.png)
+![Cholesterol](Images/cholesterol_vs_heart_disease.png)
 
-## 🫀 Resting Blood Pressure vs Heart Disease
+### Resting Blood Pressure vs Heart Disease
 
-![Blood Pressure](Images/Resting Blood Pressure vs Heart Disease.png)
+![Blood Pressure](Images/blood_pressure_vs_heart_disease.png)
 
-## 💓 Maximum Heart Rate vs Heart Disease
+### Maximum Heart Rate vs Heart Disease
 
-![Maximum Heart Rate](Images/Boxplot-maximum_heartrateVsHeartDisease.png)
+![Maximum Heart Rate](Images/maximum_heart_rate_vs_heart_disease.png)
 
-## 📉 ROC Curve
+### ROC Curve
 
-![ROC Curve](Images/ROC curve.png)
+![ROC Curve](Images/roc_curve.png)
 
+---
 
 ## 🤖 Machine Learning Model
 
